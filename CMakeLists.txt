@@ -3,4 +3,4 @@ project(c_primer_plus C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(c_primer_plus fathm_ft.c)
+add_executable(c_primer_plus two_func.c)
