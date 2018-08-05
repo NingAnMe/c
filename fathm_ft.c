@@ -6,7 +6,7 @@
 
 #include <stdio.h>
 
-int main(void)
+int fathm_ft(void)
 {
     int feet, fathoms;
     fathoms = 2;

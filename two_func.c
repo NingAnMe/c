@@ -6,7 +6,7 @@
 
 void butler(void);
 
-int main(void)
+int two_func(void)
 {
     printf("First.\n");
     butler();
